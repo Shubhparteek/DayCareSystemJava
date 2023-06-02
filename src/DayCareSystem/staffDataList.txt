@@ -1,0 +1,5 @@
+555;raza;MALE;java
+777;ZHU;MALE;Testing
+888;eli;MALE;html
+885;onions;MALE;crying
+333;Computer teacher;MALE;teaching

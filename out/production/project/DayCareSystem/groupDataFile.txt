@@ -1,0 +1,14 @@
+Group 1 Data
+225;Rich;MALE;2021-12-01;Richard;MALE;FATHER;5148550980;2800;Hymus;Dorval;Quebec;j7V7W8
+229;Philly;FEMALE;2022-04-08;Lynn;FEMALE;MOTHER;3354289090;1515;catherin;ottawa;ontario;n3p2j3
+230;Johny;MALE;2022-01-05;JF;MALE;FATHER;1234567890;123;roadBlock;Kirkland;Quebec;H7H9B8
+231;chris;MALE;2021-11-14;peter parker;MALE;FATHER;4389950183;550;rue bellini;Mont Royal;Quebec;h7h4k2
+Group 2 Data
+224;LAV;MALE;2019-04-08;Peter;MALE;FATHER;1234567890;123;roadBlock;Kirkland;Quebec;H7H9B8
+226;Dolly;FEMALE;2019-07-08;Nancy;FEMALE;MOTHER;3354289290;1517;catherin;ottawa;ontario;n5p2j8
+227;Sam;MALE;2019-04-08;Patrik;MALE;FATHER;1234567890;123;roadBlock;Kirkland;Quebec;H7H9B8
+Group 3 Data
+222;Shubh;MALE;2018-12-01;inder;MALE;FATHER;5148178980;2800;Hymus;Dorval;Quebec;j7V7W8
+228;Roy;MALE;2018-12-01;Stan;MALE;FATHER;5148158700;2800;Hymus;Dorval;Quebec;j7V7W8
+235;lin Mao;MALE;2018-05-30;zhu;MALE;FATHER;5142970900;55;scotties;vaudreuil;quebec;j7v7w8
+232;Sergio Two;MALE;2017-01-25;Fabi Go;MALE;FATHER;7748854040;1515;rue catherin;Montreal;Quebec;h7h2y4
